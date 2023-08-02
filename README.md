@@ -1,7 +1,8 @@
 # MSW_reinforcement-learning
 
 
-#A2C 알고리즘 개요
+# 💻 A2C 알고리즘 개요
+
 소개
 A2C(Advantage Actor-Critic)는 강화학습(Reinforcement Learning)에서 널리 사용되는 알고리즘 중 하나입니다. 이 알고리즘은 강화학습에서 에이전트가 환경과 상호작용하며 특정 작업을 수행하는 정책(Policy)를 개선하는 데 사용됩니다. A2C는 정책 기반(Policy-based)과 가치 기반(Value-based) 강화학습 알고리즘의 장점을 결합한 형태로, 안정적이고 높은 성능을 보입니다.
 
