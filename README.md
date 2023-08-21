@@ -36,5 +36,10 @@ A2C는 강화학습에서 널리 사용되는 알고리즘으로, 안정성과 �
 ![UIgroup](https://github.com/ilovegalio/MSW_reinforcement-learning/assets/77008882/95ad9fdb-6af2-4450-8f73-a8acb73e0a40)
 ![게임화면](https://github.com/ilovegalio/MSW_reinforcement-learning/assets/77008882/562ee366-9e2a-4b57-8c04-feaf9c8df9f5)
 ![인게임전체](https://github.com/ilovegalio/MSW_reinforcement-learning/assets/77008882/8c233955-5bab-48d3-a0de-5a62250543e7)
+ 
+# 결과
 
+![Picture](https://github.com/ilovegalio/MSW_reinforcement-learning/assets/77008882/1789c17f-51af-4f3d-a0b9-92394f105e66) (학습 실패)
 
+MSW 환경에서 python으로 데이터를 통신할 수 있는 방법을 찾지 못해 상태와 보상을 게임화면 좌상단의 이미지로 입력받음.
+이 과정에서 현재 상태와 점수가 딜레이가 발생, 쓰레기 값들이 들어가 제대로 된 학습이 일어나지 않음.
